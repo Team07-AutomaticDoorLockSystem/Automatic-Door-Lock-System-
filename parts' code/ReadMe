@@ -1,0 +1,12 @@
+# Automatic-Door-Lock-System
+
+Team:
+Anand K Parmar (B12021)
+Mani Kumar (B12012)
+Shiva Verma (B13228)
+
+
+Files:
+1. piezo.js:	When someone gives pressure on piezo sensor, it will print "knock".
+2. motor1.js:	It checks motor rotation.
+3. motor2.js:	We modified motor1.js code with our requirment. 
